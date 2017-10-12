@@ -1,0 +1,14 @@
+NOTE:
+The tool shows instructions in blue at the top. Warning instructions are shown in red.
+  
+Functionalities explained:
+1. To open a file:
+	a. Click the Open File button
+
+2. To save a file:
+	a. Click the Save file button
+
+3. To exit:
+        a. Click the Exit button
+
+** Hover over the buttons to view their functionalities
